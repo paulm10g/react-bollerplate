@@ -1,0 +1,12 @@
+.todo-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+.todo-item p {
+    color: #888;
+}
+
+.todo-item .checked {
+    text-decoration: line-through;
+}
